@@ -1,4 +1,4 @@
-![NightSalvo](banner.png)
+![NightSalvo](https://raw.githubusercontent.com/NightSalvo/.github/main/profile/banner.png)
 
 # NightSalvo
 
