@@ -19,6 +19,18 @@ One founder. One record. Nobody else fields this combination: GIAC certification
 
 Open to founding engagements: repository security audits, security reviews of small codebases, hardening reviews, and research engagements. The route in is my GitHub profile: https://github.com/Epsilon0xCell
 
+<p><img src="assets/divider.svg" width="480" alt=""></p>
+
+## The Evidence
+
+| Measure | Count |
+|---|---|
+| Repositories in the fleet | 757 |
+| Project org library | 584 |
+| Audited line by line | 754 |
+| Fully themed presentations shipped | 48 |
+| Live secrets found in final verification | 0 |
+
 ## The Elite Row
 
 <p><img src="assets/badges/nsa-codebreaker.svg" width="150" alt="NSA Codebreaker Challenge: Finisher, Solo Entrant"> <img src="assets/badges/fbi-team.svg" width="150" alt="FBI TEAM Program Alumnus"> <img src="assets/badges/giac-gsec.svg" width="150" alt="SANS GIAC: GSEC Certified"> <img src="assets/badges/giac-gfact.svg" width="150" alt="SANS GIAC: GFACT Certified"> <img src="assets/badges/giac-advisory.svg" width="150" alt="GIAC Advisory Board"></p>
