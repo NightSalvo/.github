@@ -1,5 +1,7 @@
 ![NightSalvo](https://raw.githubusercontent.com/NightSalvo/.github/main/profile/banner.png)
 
+<p align="center"><img src="assets/founder-mark.svg" width="92" alt="Founder's mark"></p>
+
 # NightSalvo
 
 Original security-systems engineering. In active development.
@@ -23,6 +25,8 @@ Open to founding engagements: repository security audits, security reviews of sm
 
 ## The Evidence
 
+<p><img src="assets/official-rule.svg" width="100%" alt=""></p>
+
 | Measure | Count |
 |---|---|
 | Repositories in the fleet | 757 |
@@ -31,9 +35,11 @@ Open to founding engagements: repository security audits, security reviews of sm
 | Fully themed presentations shipped | 48 |
 | Live secrets found in final verification | 0 |
 
+<p><img src="assets/official-rule-flip.svg" width="100%" alt=""></p>
+
 ## The Elite Row
 
-<p><img src="assets/badges/nsa-codebreaker.svg" width="150" alt="NSA Codebreaker Challenge: Finisher, Solo Entrant"> <img src="assets/badges/fbi-team.svg" width="150" alt="FBI TEAM Program Alumnus"> <img src="assets/badges/giac-gsec.svg" width="150" alt="SANS GIAC: GSEC Certified"> <img src="assets/badges/giac-gfact.svg" width="150" alt="SANS GIAC: GFACT Certified"> <img src="assets/badges/giac-advisory.svg" width="150" alt="GIAC Advisory Board"></p>
+<p><img src="assets/elite-wall.svg" width="100%" alt="The Elite Row: NSA Codebreaker Challenge, Finisher, Solo Entrant; FBI TEAM Program Alumnus; SANS GIAC, GSEC Certified; SANS GIAC, GFACT Certified; GIAC Advisory Board"></p>
 
 Operator-grade work, every claim on this page verifiable.
 
