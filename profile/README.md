@@ -4,6 +4,8 @@
 
 # NightSalvo
 
+*Night falls. Threats end.*
+
 Original security-systems engineering. In active development.
 
 What is being built:
