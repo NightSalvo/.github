@@ -21,6 +21,8 @@ Founder: [@Epsilon0xCell](https://github.com/Epsilon0xCell)
 
 One founder. One record. Nobody else fields this combination: GIAC certifications with an Advisory Board seat, a solo finish in the NSA Codebreaker Challenge, and a 584-project security library I built and then audited line by line. The fleet stands at 757 repositories; 754 of them were audited line by line in the final verification, and zero live secrets were found.
 
+The founder's standing: National Cyber Scholar with Honors, three years running, a title earned by 600 of 30,000 students who seek to qualify, the top 2% of the national cybersecurity student funnel. An assessment of the record models the 88th percentile of all participants in cybersecurity, and a modeled 76th percentile among working professionals alone.
+
 Open to founding engagements: repository security audits, security reviews of small codebases, hardening reviews, and research engagements. The route in is my GitHub profile: https://github.com/Epsilon0xCell
 
 <p><img src="assets/divider.svg" width="480" alt=""></p>
