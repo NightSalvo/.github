@@ -15,7 +15,7 @@ What is being built:
 - A hash-chained evidence ledger, so findings cannot be quietly rewritten
 - An audit-first design: every claim in a report traces back to evidence
 
-Founder: [@Epsilon0xCell](https://github.com/Epsilon0xCell)
+Founder: Gavin Blacklock ([@Epsilon0xCell](https://github.com/Epsilon0xCell))
 
 ## NightSalvo, In Short
 
